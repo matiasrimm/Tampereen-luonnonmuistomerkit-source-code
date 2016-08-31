@@ -2,6 +2,6 @@
 
 Learning project, based on open data.
 API
-https://www.avoindata.fi/data/sv/dataset/tampereen-luonnonmuistomerkit 
+  https://www.avoindata.fi/data/sv/dataset/tampereen-luonnonmuistomerkit 
 Google Play
-https://play.google.com/store/apps/details?id=com.monuments.mnmts
+  https://play.google.com/store/apps/details?id=com.monuments.mnmts
